@@ -1,3 +1,2 @@
 # Odi-es6
-161552018150046 -> 
-Gilby Dhilega Yodiaz
+Sebagai syarat untuk UTS Multiplatform
