@@ -5,7 +5,7 @@
     "build": "babel src -d lib"
   },
   "description": "",
-  "main": "index.js",
+  "main": "odiha.js",
   "author": "",
   "license": "ISC",
   "devDependencies": {
