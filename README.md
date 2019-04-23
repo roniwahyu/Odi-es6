@@ -7,6 +7,6 @@ Gilby Dhilega Yodiaz
 
 Member : 
 
-Yusri Ainur Cholis 
+Yusri Ainur Cholis (150749810367)
 
 Roikhatul Muafiroh
