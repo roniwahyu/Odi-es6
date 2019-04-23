@@ -1,2 +1,3 @@
 # Odi-es6
-Sebagai syarat untuk UTS Multiplatform
+161552018150046 -> 
+Gilby Dhilega Yodiaz
